@@ -5,10 +5,10 @@
   background-repeat:  no-repeat;
   background-attachment: fixed;
   background-size:  cover;
-  background-color: #999;
+  background-color: rgb(233, 146, 146);
   top: 0;
   bottom: 0;
-  height: 1000vh;
+  height: 1500vh;
 }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
