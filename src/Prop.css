@@ -1,0 +1,26 @@
+.Prop {
+    width: 1600px;
+    height: 2100px;
+    display: -webkit-flex; /* Safari */
+    -webkit-align-items: flex-start; /* Safari 7.0+ */
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 50px;
+    margin: 10px;
+}
+  .Prop-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .Prop-title {
+    font-size: 1.5em;
+  }
+  
+  .Prop-intro {
+    font-size: large;
+  }
+  
+  
