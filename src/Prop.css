@@ -1,6 +1,6 @@
 .Prop {
-    width: 70%;
-    height: 2100px;
+    width: 1000px;
+    height: 1600px;
     display: -webkit-flex; /* Safari */
     -webkit-align-items: flex-start; /* Safari 7.0+ */
     display: flex;
